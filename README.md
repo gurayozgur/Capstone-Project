@@ -1,4 +1,2 @@
-# Capstone-Project
-A repository for the capstone project of "Surveillance-Protective Measures" for the courses EE493 and EE494 at METU EEE. 
+![image](https://user-images.githubusercontent.com/22301676/213032718-b7badabf-3347-4436-bfc1-1fecfefeab7c.png)
 
-![](poster_zeyrek.pdf)
